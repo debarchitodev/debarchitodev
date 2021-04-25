@@ -5,6 +5,6 @@
   <h3 style="text-align: center">
     <img align="botom" src="https://gpvc.arturio.dev/debarchitodev" width="145px" height="25">
   </h3>
-  <p>Discord: <strong>αη∂єω#7360</strong></p>
+  <p><strong>αη∂єω#7360</strong></p>
 </body>
 </html>
