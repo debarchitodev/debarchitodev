@@ -6,7 +6,7 @@
     <img align="botom" src="https://gpvc.arturio.dev/debarchitodev" width="145px" height="25">
   </h3>
   <p><strong>αη∂єω#7360</strong></p>
-  <script>
+  <script type="text/javascript">
     document.querySelector("year").innerHTML = new Date().getFullYear() - 2004
   </script>
 </body>
